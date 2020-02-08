@@ -1,4 +1,4 @@
-# MATLAB-GSP_SS
+# Generación señales patrón FHSS,LFM,DSSS,Pulso CW,BPSK, entre otras, con concontrol de SNR
 Códigos en MATLAB para la generación de diferentes señales patrón con la posibilidad de controlar el valor de relación señal ruido (SNR)
 
 Posibles aplicaciones:
