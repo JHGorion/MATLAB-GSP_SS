@@ -18,7 +18,7 @@ GSP_SS_V1\TestGSP_SS_V1.m
 %
 Es el SCRIPT principal desde el cual se llaman a las funciones de generación de señales y gráficos
 Las señales que se pueden generar son:
-%%********************* GENERADOR DE SEÑALES DE PRUEBA
+                                       GENERADOR DE SEÑALES DE PRUEBA
 % 1 % Señal de FHSS; 
 % 2 % Señal LFM con control del ancho de banda 
 % 3 % Señal DSSS
@@ -55,7 +55,7 @@ GSP_SS_V1\TestGSP_SS_V1.m
 %
 It is the main SCRIPT from which the functions of signal and graphics generation are called.
 The signals that can be generated are:
-%%********************* TEST SIGNAL GENERATOR
+                                          TEST SIGNAL GENERATOR
 % 1 % Señal de FHSS; 
 % 2 % Señal LFM con control del ancho de banda 
 % 3 % Señal DSSS
