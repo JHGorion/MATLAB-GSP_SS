@@ -71,4 +71,5 @@ The signals that can be generated are:
 To select a signal, the number of the signal to be generated is assigned to the variable (TipSx)
 
 The signal generated in time, spectrogram and its FFT is plotted.
-% JORGE Y. HERNÁNDEZ GARCÍA 
+% JORGE Y. HERNÁNDEZ GARCÍA
+https://www.researchgate.net/profile/Jorge_Y_Garcia
