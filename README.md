@@ -1,5 +1,6 @@
 # Generación señales patrón FHSS,LFM,DSSS,Pulso CW,BPSK, entre otras, con concontrol de SNR
-Códigos en MATLAB para la generación de diferentes señales patrón con la posibilidad de controlar el valor de relación señal ruido (SNR)
+
+Código MATLAB generador de señales patrón con control de SNR para prueba de algoritmos de sensado de espectro
 
 Posibles aplicaciones:
 Muestra gráfica en el tiempo, espectrograma y su FFT de las señales generadas con fines educativos.
@@ -35,9 +36,16 @@ Las señales que se pueden generar son:
 Para seleccionar una señal se asigna a la variable (TipSx) el número de la señal que se desea generar
 
 Se grafica la señal generada en el tiempo, espectrograma y su FFT.
+	
+	Código distribuido bajo licencia ECR (Emplee, Contribuya y Reconozca)
+	Code distributed under ECR license (Employ, Contribute and Recognize)
+	Copyright (c) 2020 Jorge Y. Hernández García
+
+https://www.researchgate.net/profile/Jorge_Y_Garcia
+
                                                 
                                                 ENGLISH
-MATLAB codes for the generation of different standard signals with the possibility of controlling the signal to noise ratio (SNR) value
+MATLAB code standard signal generator with SNR control for testing spectrum sensing algorithms
 
 Possible applications:
 Graphic display in time, spectrogram and its FFT of the signals generated for educational purposes.
@@ -72,5 +80,8 @@ To select a signal, the number of the signal to be generated is assigned to the 
 
 The signal generated in time, spectrogram and its FFT is plotted.
 
-	JORGE Y. HERNÁNDEZ GARCÍA
+	Código distribuido bajo licencia ECR (Emplee, Contribuya y Reconozca)
+	Code distributed under ECR license (Employ, Contribute and Recognize)
+	Copyright (c) 2020 Jorge Y. Hernández García
+
 https://www.researchgate.net/profile/Jorge_Y_Garcia
